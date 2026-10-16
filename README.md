@@ -1,0 +1,2 @@
+# CLOUDPULSE-AI-Intelligent-Cloud-Cost-Optimization-Configuration-Risk-Analyzer
+CLOUDPULSE AI is a Python-based cloud analytics dashboard that identifies potential cost savings, underutilized resources, and configuration risks using simulated cloud data. It features interactive visualizations, risk analysis, recommendations, and a what-if savings simulator, built with Streamlit, Pandas, NumPy, and Plotly.
